@@ -1,7 +1,3 @@
-"""
-Hacer un programa que dibuje un corazon de color rojo.
-"""
-
 import turtle
 
 def draw_heart(): #Dibuja el corazón
