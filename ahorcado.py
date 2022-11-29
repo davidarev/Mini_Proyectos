@@ -1,3 +1,5 @@
+#Este es un ahorcado sencillo, mi juego del ahorcado 'avanzado' está aquí --> https://github.com/davidarev/Programacion_I/tree/main/Practicas/Proyecto_Final
+
 import random
 
 def is_valid_letter(letter): #Verifica que la letra sea válida
